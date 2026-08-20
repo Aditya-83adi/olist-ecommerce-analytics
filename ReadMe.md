@@ -45,7 +45,7 @@ Interactive dashboard with 3 KPI cards, 4 visuals, and 2 slicers (state, month) 
 
 ## Dashboard
 
-![Dashboard Screenshot](Dashboard_screenshot.png)
+(Dashboard_screenshot.png)
 
 ## Repository Structure
 
