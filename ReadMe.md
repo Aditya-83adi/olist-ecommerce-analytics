@@ -44,8 +44,9 @@ Interactive dashboard with 3 KPI cards, 4 visuals, and 2 slicers (state, month) 
 - Average delivery time across all orders: **~12.5 days**.
 
 ## Dashboard
+## Dashboard
 
-(Dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Repository Structure
 
